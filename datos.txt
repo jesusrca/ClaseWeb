@@ -1,0 +1,26 @@
+variable 
+condición, instrucciones dependiendo de una condicion logica
+ciclo,
+función
+evento, funcion que ocurre cuando algo pasa
+objeto
+
+
+base de datos relacionales y no relacionales
+
+padding = margin interno
+margin = margen exterior
+1em= valor relativo al tamaño de la fuente mas cercana
+
+movil 480 a 727 px
+desk: 728 -1200 px
+
+id = un estilo unico
+class = estilo que se repite
+
+solo se pone el ancho en las imagenes, el alto se ajusta por el navegador
+
+Todas las etiquetas son bloques <div> 
+Los inline no puedes poner margenes ni padding
+
+En los block si puedes colores margenes
